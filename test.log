@@ -1,0 +1,29 @@
+total 27
+-rwxr-xr-x 1 ravic 197609   32 Dec  9 15:04 basic-hello-world.sh
+-rw-r--r-- 1 ravic 197609  462 Dec  9 15:18 02-Variable.sh
+-rwxr-xr-x 1 ravic 197609  311 Dec  9 15:19 01-Variable.sh
+-rw-r--r-- 1 ravic 197609   64 Dec  9 15:24 03-Variable.sh
+-rw-r--r-- 1 ravic 197609  612 Dec  9 15:36 04-Sensitive-data.sh
+-rw-r--r-- 1 ravic 197609  444 Dec  9 15:54 05-Exit-status.sh
+-rw-r--r-- 1 ravic 197609  275 Dec  9 16:07 06-condition-Exit-status.sh
+-rw-r--r-- 1 ravic 197609  758 Dec  9 16:24 07-Git-Installation.sh
+-rw-r--r-- 1 ravic 197609  991 Dec  9 16:38 08-Functions.sh
+-rw-r--r-- 1 ravic 197609 1202 Dec  9 17:18 Jenkins-Installation.sh
+-rw-r--r-- 1 ravic 197609 2080 Dec  9 19:12 Modified-Jenkins-Install.sh
+-rw-r--r-- 1 ravic 197609  735 Dec  9 19:22 Redirect.sh
+-rw-r--r-- 1 ravic 197609    0 Dec  9 19:23 test.log
+Redirect.sh: line 21: lss: command not found
+total 31
+-rwxr-xr-x 1 ravic 197609   32 Dec  9 15:04 basic-hello-world.sh
+-rw-r--r-- 1 ravic 197609  462 Dec  9 15:18 02-Variable.sh
+-rwxr-xr-x 1 ravic 197609  311 Dec  9 15:19 01-Variable.sh
+-rw-r--r-- 1 ravic 197609   64 Dec  9 15:24 03-Variable.sh
+-rw-r--r-- 1 ravic 197609  612 Dec  9 15:36 04-Sensitive-data.sh
+-rw-r--r-- 1 ravic 197609  444 Dec  9 15:54 05-Exit-status.sh
+-rw-r--r-- 1 ravic 197609  275 Dec  9 16:07 06-condition-Exit-status.sh
+-rw-r--r-- 1 ravic 197609  758 Dec  9 16:24 07-Git-Installation.sh
+-rw-r--r-- 1 ravic 197609  991 Dec  9 16:38 08-Functions.sh
+-rw-r--r-- 1 ravic 197609 1202 Dec  9 17:18 Jenkins-Installation.sh
+-rw-r--r-- 1 ravic 197609 2080 Dec  9 19:12 Modified-Jenkins-Install.sh
+-rw-r--r-- 1 ravic 197609  735 Dec  9 19:22 Redirect.sh
+-rw-r--r-- 1 ravic 197609  871 Dec  9 19:23 test.log
